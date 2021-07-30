@@ -1,0 +1,13 @@
+board: 4-5
+pawn: 4-3; 5-6; 1-2; 2-5
+king: 3-2; 4-5;
+board: 1-5
+king: 1-3
+board: 4-5
+queen: 2-2; 4-4; 4-5
+bishop: 2-4; 4-5; 3-3
+knight: 1-1
+board: 8-8
+knight: 1-2; 1-7; 4-4
+board: 4-5
+rook: 3-1; 4-5
