@@ -54,7 +54,7 @@ for req in inp:
             final_output += f'{possible_moves}; '
         out.write(f'{final_output[:len(final_output) - 2]}.\n')
     else:
-        out.write('Запрос не может быть обработан\n')
+        out.write('Bad request\n')
 
 inp.close()
 out.close()
